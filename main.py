@@ -4,5 +4,8 @@ pole = [
     [7, 8, 9]
 ]
 
+pole[1][1] = 105
+
+
 for radek in pole:
     print(radek)
